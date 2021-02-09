@@ -3,7 +3,7 @@
 👋 I'm Aishwarya - A third year Information Technology Student at Thadomal Shahani College
 and an aspiring Software Engineer.
 
-![Aishwarya Nathani's github stats](https://github-readme-stats.vercel.app/api?username=aishux&show_icons=true&count_private=false&hide=stars,issues)
+![Aishwarya Nathani's github stats](https://github-readme-stats.vercel.app/api?username=aishux&show_icons=true&count_private=false)
 
 ###  📫 How to reach me 
 
