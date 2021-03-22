@@ -15,7 +15,7 @@ Social Blog | HTML, CSS, JS, Bootstrap | Flask, MySQL | [link](https://blogbyfla
 Weather Journal App| HTML, CSS, JS, Bootstrap | Flask, SQLite3 | [link](#) | [link](https://github.com/aishux/WeatherJournalApp)
 ToDo App | HTML, CSS, Bootstrap | Flask, SQLite3 | [link](https://dailytodo.pythonanywhere.com/) | [link](https://github.com/aishux/ToDoApp)
 Coffee Machine | HTML, CSS, JS | Flask | [link](https://coffeemachine.pythonanywhere.com/) | [link](https://github.com/aishux/CoffeeMachine)
-Feedback Form| HTML, CSS, Bootstrap | Flask, SQLite3 | - | [link](https://github.com/aishux/FeedbackForm)
+Feedback Form| HTML, CSS, Bootstrap | Flask, MySQL | - | [link](https://github.com/aishux/FeedbackForm)
 
 
 ###  📫 How to reach me 
