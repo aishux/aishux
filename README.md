@@ -7,6 +7,17 @@ and an aspiring Software Engineer.
 
 ![Aishwarya Nathani's github stats](https://github-readme-stats.vercel.app/api?username=aishux&show_icons=true&count_private=false&hide=stars,issues)
 
+### My projects
+
+Web app | Front end | Back end | Live demo | GitHub repo
+------- | --------- | -------- | --------- | -----------
+Social Blog | HTML, CSS, JS, Bootstrap | Flask, MySQL | [link](https://blogbyflask.pythonanywhere.com/) | [link](https://github.com/aishux/SocialBlog)
+Weather Journal App| HTML, CSS, JS, Bootstrap | Flask, SQLite3 | [link](#) | [link](#)
+Coffee Machine | HTML, CSS, JS | Flask | [link](https://coffeemachine.pythonanywhere.com/) | [link](https://github.com/aishux/CoffeeMachine)
+ToDo App | HTML, CSS, Bootstrap | Flask | [link](https://dailytodo.pythonanywhere.com/) | [link](https://github.com/aishux/ToDoApp)
+Feedback Form| HTML, CSS, Bootstrap | - | [link](-) | [link](https://github.com/aishux/FeedbackForm)
+
+
 ###  📫 How to reach me 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
