@@ -9,14 +9,15 @@ and an aspiring Software Engineer.
 
 ### My projects
 
-Web app | Front end | Back end | Live demo | GitHub repo
+Project Name | Front end | Back end | Live demo | GitHub repo
 ------- | --------- | -------- | --------- | -----------
 Social Blog | HTML, CSS, JS, Bootstrap | Flask, MySQL | [link](https://blogbyflask.pythonanywhere.com/) | [link](https://github.com/aishux/SocialBlog)
 Weather Journal App| HTML, CSS, JS, Bootstrap | Flask, SQL Alchemy | [link](https://weatherjournal.pythonanywhere.com/) | [link](https://github.com/aishux/WeatherJournalApp)
 ToDo App | HTML, CSS, Bootstrap | Flask, SQL Alchemy | [link](https://dailytodo.pythonanywhere.com/) | [link](https://github.com/aishux/ToDoApp)
-Coffee Machine | HTML, CSS, JS | Flask | [link](https://coffeemachine.pythonanywhere.com/) | [link](https://github.com/aishux/CoffeeMachine)
+Poll App | HTML, CSS, Bootstrap | Django, SQLite3 | [link](https://blogbyflask.pythonanywhere.com/) | [link](https://github.com/aishux/SocialBlog)
+Coffee Machine | HTML, CSS, JS | Flask | - | [link](https://github.com/aishux/CoffeeMachine)
 Feedback Form| HTML, CSS, Bootstrap | Flask, MySQL | - | [link](https://github.com/aishux/FeedbackForm)
-REST API| - | Flask, SQL Alchemy & Marshmallow | - | [link](https://github.com/aishux/REST-API-FLASK)
+REST API| - | Flask, SQL Alchemy & Marshmallow | - | [link](https://github.com/aishux/PollApp)
 
 
 ###  📫 How to reach me 
