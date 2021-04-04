@@ -15,7 +15,7 @@ Social Blog | HTML, CSS, JS, Bootstrap | Flask, MySQL | [link](https://blogbyfla
 Weather Journal App| HTML, CSS, JS, Bootstrap | Flask, SQL Alchemy | [link](https://weatherjournal.pythonanywhere.com/) | [link](https://github.com/aishux/WeatherJournalApp)
 ToDo App | HTML, CSS, Bootstrap | Flask, SQL Alchemy | [link](https://dailytodo.pythonanywhere.com/) | [link](https://github.com/aishux/ToDoApp)
 Poll App | HTML, CSS, Bootstrap | Django, SQLite3 | - | [link](https://github.com/aishux/SocialBlog)
-Coffee Machine | HTML, CSS, JS | Flask | - | [link](https://github.com/aishux/CoffeeMachine)
+Coffee Machine | HTML, CSS, JS | Flask | [link](https://coffeemachine.pythonanywhere.com/) | [link](https://github.com/aishux/CoffeeMachine)
 Feedback Form| HTML, CSS, Bootstrap | Flask, MySQL | - | [link](https://github.com/aishux/FeedbackForm)
 REST API| - | Flask, SQL Alchemy & Marshmallow | - | [link](https://github.com/aishux/PollApp)
 
