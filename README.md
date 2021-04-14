@@ -14,6 +14,7 @@ Project Name | Front end | Back end | Live demo | GitHub repo
 Social Blog | HTML, CSS, JS, Bootstrap | Flask, MySQL | [link](https://blogbyflask.pythonanywhere.com/) | [link](https://github.com/aishux/SocialBlog)
 Weather Journal App| HTML, CSS, JS, Bootstrap | Flask, SQL Alchemy | [link](https://weatherjournal.pythonanywhere.com/) | [link](https://github.com/aishux/WeatherJournalApp)
 ChatRoom| HTML, CSS, JS | Django, Twilio | - | [link](https://github.com/aishux/ChatRoom)
+App Launch Website| HTML, CSS, JS, Bootstrap | Django, SQLite3, Collect.Chat | - | [link](https://github.com/aishux/App-Lauch-Website)
 ToDo App | HTML, CSS, Bootstrap | Flask, SQL Alchemy | [link](https://dailytodo.pythonanywhere.com/) | [link](https://github.com/aishux/ToDoApp)
 Poll App | HTML, CSS, Bootstrap | Django, SQLite3 | - | [link](https://github.com/aishux/SocialBlog)
 Coffee Machine | HTML, CSS, JS | Flask | [link](https://coffeemachine.pythonanywhere.com/) | [link](https://github.com/aishux/CoffeeMachine)
