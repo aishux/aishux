@@ -26,7 +26,7 @@ Feedback Form| HTML, CSS, Bootstrap | Flask, MySQL | - | [link](https://github.c
 
 Project Name | Tech Stack | Live demo | GitHub repo
 ------- | --------- | -------- | --------- 
-Gas Leakage Detector | Arduino Uno, ESP8266 WiFi Module,ThingSpeak and Webhooks| [dashboard link](https://aishux.github.io/GasLeakageDetector/) or [circuit link](https://www.tinkercad.com/things/jvF41IpwLWw)|  [link](https://github.com/aishux/GasLeakageDetector)
+Gas Leakage Detector | Arduino Uno, ESP8266 WiFi Module,ThingSpeak and Webhooks| [dashboard link](https://aishux.github.io/GasLeakageDetector/) / [circuit link](https://www.tinkercad.com/things/jvF41IpwLWw)|  [link](https://github.com/aishux/GasLeakageDetector)
 REST API | Flask, SQL Alchemy & Marshmallow | - | [link](https://github.com/aishux/REST-API-FLASK)
 
 
