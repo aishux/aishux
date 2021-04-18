@@ -30,6 +30,19 @@ Gas Leakage Detector | Arduino Uno, ESP8266 WiFi Module,ThingSpeak & Webhooks| [
 REST API | Flask, SQL Alchemy & Marshmallow | - | [link](https://github.com/aishux/REST-API-FLASK)
 Marksheet Replica | HTML, CSS | [link](https://aishux.github.io/Marksheet/) | [link](https://github.com/aishux/Marksheet)
 
+#### Company Websites (WordPress & CSS)
+
+Company Name | Live Preview
+------- | --------- 
+Square Select Estates | [link](https://squareselect.in/)
+SkyIndya Technologies | [link](https://www.skyindya.com/)
+SkyIndya Technologies Landing Page 1 | [link](https://promos.skyindya.com/)
+SkyIndya Technologies Landing Page 2 | [link](https://referral.skyindya.com/)
+Find Your Happiness | [link](https://findyourhappiness.in/)
+HashBinary Services LLP | [link](https://hashbinary.com/)
+Golden Grass | [link](https://goldengrass.in/)
+Financerr | [link](https://financerr.in/)
+
 
 ###  📫 How to reach me 
 
