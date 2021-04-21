@@ -13,7 +13,7 @@ and an aspiring Software Engineer.
 
 Project Name | Front end | Back end | Live demo | GitHub repo
 ------- | --------- | -------- | --------- | -----------
-Cosmix Library | HTML, CSS, JS & Bootstrap | Django, SQLite3 | - | [link](https://github.com/aishux/CosmixLibrary)
+Cosmix Library | HTML, CSS, JS, Bootstrap | Django, SQLite3 | - | [link](https://github.com/aishux/CosmixLibrary)
 Social Blog | HTML, CSS, JS, Bootstrap | Flask, MySQL | [link](https://blogbyflask.pythonanywhere.com/) | [link](https://github.com/aishux/SocialBlog)
 Weather Journal App| HTML, CSS, JS, Bootstrap | Flask, SQL Alchemy | [link](https://weatherjournal.pythonanywhere.com/) | [link](https://github.com/aishux/WeatherJournalApp)
 ChatRoom| HTML, CSS, JS | Django, Twilio | - | [link](https://github.com/aishux/ChatRoom)
