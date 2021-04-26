@@ -3,7 +3,7 @@
 👋 I'm Aishwarya - A third year Information Technology Student at Thadomal Shahani College
 and an aspiring Software Engineer.
 
-<img align='right' src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' width='350"'>
+<img align='right' src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' width='300"'>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aishux&show_icons=true&locale=en" alt="aishux" /></p>
 
