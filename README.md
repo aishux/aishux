@@ -35,6 +35,7 @@ Marksheet Replica | HTML, CSS | [link](https://aishux.github.io/Marksheet/) | [l
 
 Company Name | Live Preview
 ------- | --------- 
+Tails of Joy(Ecommerce Website) | [link](http://tailsofjoy.pet/)
 Square Select Estates | [link](https://squareselect.in/)
 SkyIndya Technologies | [link](https://www.skyindya.com/)
 SkyIndya Technologies Landing Page 1 | [link](https://promos.skyindya.com/)
