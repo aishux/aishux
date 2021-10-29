@@ -23,13 +23,13 @@ Poll App | HTML, CSS, Bootstrap | Django, SQLite3 | - | [link](https://github.co
 Coffee Machine | HTML, CSS, JS | Flask | [link](https://coffeemachine.pythonanywhere.com/) | [link](https://github.com/aishux/CoffeeMachine)
 Feedback Form| HTML, CSS, Bootstrap | Flask, MySQL | - | [link](https://github.com/aishux/FeedbackForm)
 
-#### Other Projects
+<!-- #### Other Projects
 
 Project Name | Tech Stack | Live demo | GitHub repo
 ------- | --------- | -------- | --------- 
 Gas Leakage Detector | Arduino Uno, ESP8266 WiFi Module,ThingSpeak & Webhooks| [link](https://aishux.github.io/GasLeakageDetector/)|  [link](https://github.com/aishux/GasLeakageDetector)
 REST API | Flask, SQL Alchemy & Marshmallow | - | [link](https://github.com/aishux/REST-API-FLASK)
-Marksheet Replica | HTML, CSS | [link](https://aishux.github.io/Marksheet/) | [link](https://github.com/aishux/Marksheet)
+Marksheet Replica | HTML, CSS | [link](https://aishux.github.io/Marksheet/) | [link](https://github.com/aishux/Marksheet) -->
 
 #### Company Websites (WordPress & CSS)
 
