@@ -1,6 +1,6 @@
 # Aishwarya Nathani
 
-👋 I'm Aishwarya - A third year Information Technology Student at Thadomal Shahani College
+👋 I'm Aishwarya - Final Year Information Technology Student at Thadomal Shahani College
 and an aspiring Software Engineer.
 
 <img align='right' src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' width='300"'>
